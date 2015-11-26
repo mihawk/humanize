@@ -1,0 +1,7 @@
+{application, humanize,
+  [{description, "Erlang humanize"},
+   {vsn, "0.1"},
+   {registered, []},
+   {applications, [kernel, stdlib]},
+   {mod, { humanize, []}},
+   {env, []} ]}.

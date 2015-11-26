@@ -1,0 +1,10 @@
+ebin/*.beam
+ebin/humanize.app
+deps
+erl_crash.dump
+.project
+.eunit
+.settings
+/ebin
+*~
+*.sw?
